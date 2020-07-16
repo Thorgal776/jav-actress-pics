@@ -1,1 +1,52 @@
-# jav-actress-pics
+### Notes
+
+The names listed should be the ones listed on FreeOnes with the alias usually being the IAFD name.
+
+[List of actresses.](./LIST.md)
+
+These images are intended to be generic and platform agnostics, and they happen to work pretty well in [Stash](https://github.com/stashapp/stash/).
+The widescreen are provided for fun and will hopefully be of more use in the future.
+
+### Naming
+Images were originally named `Actress Name #.jpg`
+
+Newer images will now be according to `firstname-[middlename]-lastname_Set_Crop_Pose_State_Number.jpg`
+  * **middlename** is optional
+  * if any part of the name contains `.` this should be removed
+Crop defines parts of the subject included in the image. 
+Pose is either Front, Side, Back, or sitting.
+State is either NN (non-nude), Topless or Nude.
+Number is only added when need to further differentiate.
+
+[More info on structure and naming here.](https://github.com/trizkat/actress-pics/SCHEMA.md)
+
+### Contributors
+* _Kenny40
+* Carlium
+* cooperdk
+* DebaucheryLibrarian
+* DGs.Ch00
+* Diustent
+* echo6ix
+* GernBlanston
+* horridunknown
+* Mistress Aaliyah
+* Simmy
+* Sofa King
+* Wurm
+
+Feel free to join and become a contributor, or just lurk over in the Discord server.
+https://discord.gg/8UehF3N
+
+
+### Disclaimer
+
+Adults only.
+
+This project is for educational purposes only.
+
+Copyright Disclaimer under section 107 of the Copyright Act of 1976, allowance is made for “fair use” for purposes such as criticism, comment, news reporting, teaching, scholarship, education and research.
+
+Fair use is a use permitted by copyright statute that might otherwise be infringing.
+
+Any copyrights included belong to their respective owners.
