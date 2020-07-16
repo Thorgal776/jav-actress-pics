@@ -13,7 +13,7 @@ Images were originally named `Actress Name #.jpg`
 Newer images will now be according to `firstname-[middlename]-lastname_Set_Crop_Pose_State_Number.jpg`
   * **middlename** is optional
   * if any part of the name contains `.` this should be removed
-Crop defines parts of the subject included in the image. 
+Crop defines parts of the subject included in the image.
 Pose is either Front, Side, Back, or sitting.
 State is either NN (non-nude), Topless or Nude.
 Number is only added when need to further differentiate.
